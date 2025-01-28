@@ -1,2 +1,2 @@
 # tarjimni
-An auto-updated list of projects that need Arabic translation
+An auto-updating list of projects that need Arabic translation
